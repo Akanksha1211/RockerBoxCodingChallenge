@@ -1,8 +1,8 @@
 Submission of Coding Assessment for Akanksha Avhad
 
 The coding assessment is been done in two languages
-1. JavaScript/HTML5
-2. JAVA
+# 1. JavaScript/HTML5
+# 2. JAVA
 
 How to run file for JavaScript/HTML
 1. Make sure that index.html and implementation.js are in the same folder structure
